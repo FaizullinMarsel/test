@@ -12,13 +12,9 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
-            System.out.println("1111");
         }
     }
     public static void test (){
-        System.out.println("11");
-        System.out.println("555");
-        System.out.println("000");
-        System.out.println("222");
+        System.out.println("Hello World");
     }
 }

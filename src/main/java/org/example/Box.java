@@ -6,6 +6,13 @@ public class Box {
     private String size;
 
     @Override
+    public String toString() {
+        return "Box{" +
+                "size='" + size + '\'' +
+                '}';
+    }
+
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;

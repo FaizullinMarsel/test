@@ -17,5 +17,8 @@ public class Main {
     }
     public static void test (){
         System.out.println("11112222");
+        System.out.println("11112222");
+        System.out.println("11112222");
+        System.out.println("11112222");
     }
 }
